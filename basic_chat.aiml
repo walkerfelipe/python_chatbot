@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>*</pattern>
+    <template>Desculpe, não entendi.</template>
+</category>
+
+<category><pattern>Oi</pattern>
+<template>Ola, Bem vindo ao Banco Champs SA
+Em que posso ajudar?
+</template>
+
+</category>
+<category><pattern>ue</pattern>
+<template>Por que não dá certo ?</template>
+</category>
+
+
+</aiml>
